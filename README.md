@@ -46,6 +46,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Asphalt-69/Asphalt-69/output/snake.svg" alt="Snake animation" />
 
 ###
